@@ -7,4 +7,4 @@ An interactive tower defence game written in Java (recommend running it using In
 ![gameplay](assets/gameplay.png)
 
 ### Video demo
-[![demo](assets/gameplay.png)](assets/demo.mp4)
+[![demo](assets/gameplay.png)](assets/demo.mp4 demo)
